@@ -101,3 +101,56 @@ body {
     background-color: #F8E08E;
     color: #000000;
 }
+
+@media (orientation: landscape) {
+  .viv-image-bg1 {
+    height:100vh; 
+    background-image: url(../../images/yellow-and-purple-ink-with-green.jpg);
+    background-size: cover; 
+  }
+
+  .viv-image-bg2 {
+    height:100vh; 
+    background-image: url(../../images/purple-and-red-ink-pool-on-white.jpg);
+    background-size: cover; 
+  }
+
+  .viv-image-bg3 {
+    height:100vh; 
+    background-image: url(../../images/green-orange-and-yellow-ink-cloud.jpg);
+    background-size: cover; 
+  }
+
+  .viv-image-bg4 {
+    height:100vh; 
+    background-image: url(../../images/pink-and-black-ink-drop.jpg);
+    background-size: cover; 
+  }
+}
+
+@media (orientation: portrait) {
+  .viv-image-bg1 {
+    height:100vh; 
+    background-image: url(../../images/yellow-and-purple-ink-with-green\ -\ cropped.jpg);
+    background-size: cover; 
+  }
+
+  .viv-image-bg2 {
+    height:100vh; 
+    background-image: url(../../images/purple-and-red-ink-pool-on-white\ -\ cropped.jpg);
+    background-size: cover; 
+  }
+
+  .viv-image-bg3 {
+    height:100vh; 
+    background-image: url(../../images/green-orange-and-yellow-ink-cloud\ -\ cropped.jpg);
+    background-size: cover; 
+  }
+
+  .viv-image-bg4 {
+    height:100vh; 
+    background-image: url(../../images/pink-and-black-ink-drop\ -\ cropped.jpg);
+    background-size: cover; 
+  }
+}
+
