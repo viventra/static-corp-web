@@ -215,15 +215,7 @@
   <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_26" y="502.98416" x="508.60987" stroke-width="0" stroke="#000" fill="#C0D725" font-weight="bold">Email</text>
   <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_27" y="502.98416" x="588.78397" stroke-width="0" stroke="#000000" fill="#C0D725" font-weight="bold">subscribe@viventra.in</text>
   <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_28" y="502.98416" x="857.87918" stroke-width="0" stroke="#000" fill="#C0D725" font-weight="bold">today!</text>
-  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
   <g stroke="null" id="svg_52">
-   <g stroke="null" transform="matrix(0.17504502270412428,0,0,0.17504502270412428,-5409.201754027745,-2849.480852857232) " id="svg_50">
-    <title>background</title>
-    <rect stroke="null" fill="none" id="svg_48" height="602" width="1602" y="19177.636142" x="34362.159424"/>
-    <g stroke="null" display="none" id="svg_46">
-     <rect stroke="null" fill="url(#gridpattern)" stroke-width="0" y="19178.636142" x="34363.159424" height="628" width="1200" id="svg_47"/>
-    </g>
-   </g>
    <g stroke="null" transform="matrix(0.17504502270412428,0,0,0.17504502270412428,-5409.201754027745,-2849.480852857232) " id="svg_51">
     <title>Layer 1</title>
     <path stroke="null" fill="#f0ad4e" d="m34548.924114,19602.038502c0.00622,3.91338 1.16344,7.74588 3.33477,11.00599l10.6327,15.98326a19.90286,19.90286 0 0 0 16.57431,8.88443l38.39343,0a19.90286,19.90286 0 0 0 16.57431,-8.88443l10.6327,-15.98326a19.90224,19.90224 0 0 0 3.33477,-11.00599l0.02489,-23.85979l-99.53298,0l0.03111,23.85979l-0.00001,0zm-59.76458,-173.17793c0,27.60519 10.23451,52.79018 27.10124,72.03356c10.27806,11.7277 26.35465,36.22831 32.48292,56.89643c0.02489,0.16176 0.04355,0.32352 0.06844,0.48528l99.69474,0c0.02489,-0.16176 0.04355,-0.3173 0.06844,-0.48528c6.12827,-20.66812 22.20485,-45.16874 32.48292,-56.89643c16.86673,-19.24337 27.10124,-44.42837 27.10124,-72.03356c0,-60.59205 -49.20655,-109.68661 -109.84215,-109.49997c-63.46643,0.19287 -109.15778,51.62052 -109.15778,109.49997l-0.00001,0zm109.49997,-49.77271c-27.44343,0 -49.77271,22.32928 -49.77271,49.77271c0,5.49988 -4.45466,9.95454 -9.95454,9.95454s-9.95454,-4.45466 -9.95454,-9.95454c0,-38.42453 31.25726,-69.6818 69.6818,-69.6818c5.49988,0 9.95454,4.45466 9.95454,9.95454s-4.45466,9.95454 -9.95454,9.95454l-0.00001,0.00001z" id="svg_45"/>
